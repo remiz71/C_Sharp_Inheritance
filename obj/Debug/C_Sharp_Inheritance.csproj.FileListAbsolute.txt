@@ -1,0 +1,6 @@
+/Users/dmitrij/RiderProjects/C_Sharp_Inheritance/C_Sharp_Inheritance/bin/Debug/C_Sharp_Inheritance.exe
+/Users/dmitrij/RiderProjects/C_Sharp_Inheritance/C_Sharp_Inheritance/bin/Debug/C_Sharp_Inheritance.pdb
+/Users/dmitrij/RiderProjects/C_Sharp_Inheritance/C_Sharp_Inheritance/obj/Debug/C_Sharp_Inheritance.csproj.AssemblyReference.cache
+/Users/dmitrij/RiderProjects/C_Sharp_Inheritance/C_Sharp_Inheritance/obj/Debug/C_Sharp_Inheritance.csproj.CoreCompileInputs.cache
+/Users/dmitrij/RiderProjects/C_Sharp_Inheritance/C_Sharp_Inheritance/obj/Debug/C_Sharp_Inheritance.exe
+/Users/dmitrij/RiderProjects/C_Sharp_Inheritance/C_Sharp_Inheritance/obj/Debug/C_Sharp_Inheritance.pdb
